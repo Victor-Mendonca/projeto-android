@@ -38,6 +38,9 @@
     margin: 0px;
     padding: 0px;
 }
+*::selection{
+    color: var(--cor2);
+}
 body{
     background-color: whitesmoke;
     font-family: var(--fonte-padrao);
@@ -71,6 +74,7 @@ header p{
     text-shadow: -3px 3px 5px rgba(0, 0, 0, 0.401);
 }
 nav{
+    position: static;
     background-color: var(--cor5);
     padding: 15px;
     box-shadow: 0px 7px 7px 0px rgba(0, 0, 0, 0.41);

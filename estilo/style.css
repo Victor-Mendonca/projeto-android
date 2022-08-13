@@ -99,10 +99,6 @@ main{
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
 }
-h1::selection{
-    color: aqua;
-    background: red;
-}
 main h1{
     font-family: var(--fonte-android);
     color: var(--cor5);

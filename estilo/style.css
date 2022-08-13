@@ -40,6 +40,7 @@
 }
 *::selection{
     color: var(--cor2);
+    background-color: var(--cor5);
 }
 body{
     background-color: whitesmoke;

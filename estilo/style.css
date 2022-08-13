@@ -34,6 +34,10 @@
     --fonte-destaque: 'Bebas Neue', cursive;
     --fonte-android: 'Android', cursive;
 }
+::selection {
+    color: aqua;
+    background: red;
+}
 *{
     margin: 0px;
     padding: 0px;

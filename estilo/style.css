@@ -42,6 +42,10 @@ body{
     background-color: whitesmoke;
     font-family: var(--fonte-padrao);
 }
+p::selection{
+    color: aqua;
+    background: red;
+}
 a.externo::after {
     content: '\00A0\1F517';
 }

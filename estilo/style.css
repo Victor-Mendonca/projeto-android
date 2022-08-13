@@ -38,7 +38,7 @@
     margin: 0px;
     padding: 0px;
 }
-*::selection{
+p::selection{
     color: var(--cor2);
     background-color: var(--cor5);
 }

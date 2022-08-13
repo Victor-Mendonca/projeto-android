@@ -38,7 +38,8 @@
 *{
     margin: 0px;
     padding: 0px;
-}*::selection {
+}
+*::selection {
     color: var(--cor2);
     background: var(--cor3);
 }

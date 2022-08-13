@@ -38,13 +38,13 @@
     margin: 0px;
     padding: 0px;
 }
-p::selection{
-    color: var(--cor2);
-    background-color: var(--cor5);
-}
 body{
     background-color: whitesmoke;
     font-family: var(--fonte-padrao);
+}
+p::selection{
+    color: var(--cor2);
+    background-color: var(--cor5);
 }
 a.externo::after {
     content: '\00A0\1F517';

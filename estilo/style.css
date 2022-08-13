@@ -40,8 +40,8 @@
     padding: 0px;
 }
 *::selection {
-    color: var(--cor2);
-    background: var(--cor3);
+    color: #3ddc84;
+    background: #2fa866;
 }
 body{
     background-color: whitesmoke;

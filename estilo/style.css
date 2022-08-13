@@ -99,7 +99,7 @@ main{
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
 }
-main::selection{
+h1::selection{
     color: aqua;
     background: red;
 }
